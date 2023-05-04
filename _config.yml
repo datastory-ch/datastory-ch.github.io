@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "www.datastory.ch" # the base hostname & protocol for your site
 
 twitter_username: datastory_ch
-github_username:
+github_username: datastory-ch
 
 # Build settings
 markdown: kramdown
