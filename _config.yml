@@ -1,9 +1,7 @@
 # Site settings
 title: Datastory
 email: datastory@datastory.ch
-description: >
-Lost in data? We get it. 
-You see it! Datastory provides custom solutions in data analysis and visualization
+description: Lost in data? We get it. You see it! Datastory provides custom solutions in data analysis and visualization
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "www.datastory.ch" # the base hostname & protocol for your site
 
