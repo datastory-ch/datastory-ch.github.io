@@ -1,11 +1,11 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Datastory
+email: datastory@datastory.ch
+description: > Lost in data? We get it. You see it! Datastory provides custom solutions in data analysis and visualization
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "www.datastory.ch" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: datastory_ch
 github_username:
 
 # Build settings
